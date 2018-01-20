@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Concert Venue</title>
+	<description>Συλλογή Εκδηλώσεων - Concert Venue</description>
+	<link>home.php?cat=Concert Venue</link>
+	<item>
+		<title>ROAR! Rock on the Beach Festival || 04.09.15 &amp; 05.09.15</title>
+		<description>ROAR! Rock on the Beach Festival || 04.09.15 &amp; 05.09.15</description>
+		<link>home.php?id=962539407124662</link>
+		<pubDate>04-09-2015    00:00</pubDate>
+	</item>
+	</channel>
+</rss>

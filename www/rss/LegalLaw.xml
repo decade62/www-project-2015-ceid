@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Legal/Law</title>
+	<description>Συλλογή Εκδηλώσεων - Legal/Law</description>
+	<link>http://localhost/home.php?cat=Legal/Law</link>
+	<item>
+		<title>Wash Out - The End of Exams Open Bar</title>
+		<description>Wash Out - The End of Exams Open Bar</description>
+		<link>http://localhost/home.php?id=967206053303579</link>
+		<pubDate>01-07-2015    20:00</pubDate>
+	</item>
+	</channel>
+</rss>

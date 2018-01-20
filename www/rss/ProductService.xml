@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Product/Service</title>
+	<description>Συλλογή Εκδηλώσεων - Product/Service</description>
+	<link>http://localhost/home.php?cat=Product/Service</link>
+	<item>
+		<title>DJ MAG presents BOB SINCLAR at CAFE DEL MAR 9.8.15</title>
+		<description>DJ MAG presents BOB SINCLAR at CAFE DEL MAR 9.8.15</description>
+		<link>http://localhost/home.php?id=903595356353875</link>
+		<pubDate>09-08-2015    14:00</pubDate>
+	</item>
+	<item>
+		<title>SUNGLASSES AT NIGHT: GOZO EDITION 2015 at LA GROTTA feat GOSTAN</title>
+		<description>SUNGLASSES AT NIGHT: GOZO EDITION 2015 at LA GROTTA feat GOSTAN</description>
+		<link>http://localhost/home.php?id=351718611704930</link>
+		<pubDate>18-07-2015    20:00</pubDate>
+	</item>
+	<item>
+		<title>DUKE DUMONT at CAFE DEL MAR - SUNSET SPECIAL [04/07/2015]</title>
+		<description>DUKE DUMONT at CAFE DEL MAR - SUNSET SPECIAL [04/07/2015]</description>
+		<link>http://localhost/home.php?id=1004195856276155</link>
+		<pubDate>04-07-2015    14:00</pubDate>
+	</item>
+	</channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Arts/Entertainment/Nightlife</title>
+	<description>Συλλογή Εκδηλώσεων - Arts/Entertainment/Nightlife</description>
+	<link>home.php?cat=Arts/Entertainment/Nightlife</link>
+	<item>
+		<title>7th STREET MODE FESTIVAL | 13 SEPT.</title>
+		<description>7th STREET MODE FESTIVAL | 13 SEPT.</description>
+		<link>home.php?id=1662849437277493</link>
+		<pubDate>12-09-2015    23:00</pubDate>
+	</item>
+	<item>
+		<title>The NON Rooftop event w/ MICHAEL MAYER, Ison &amp; ArKI</title>
+		<description>The NON Rooftop event w/ MICHAEL MAYER, Ison &amp; ArKI</description>
+		<link>home.php?id=1613272945609897</link>
+		<pubDate>01-07-2015    15:00</pubDate>
+	</item>
+	</channel>
+</rss>

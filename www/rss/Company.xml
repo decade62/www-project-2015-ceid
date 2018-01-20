@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Company</title>
+	<description>Συλλογή Εκδηλώσεων - Company</description>
+	<link>http://localhost/home.php?cat=Company</link>
+	<item>
+		<title>Romeo and Juliet</title>
+		<description>Romeo and Juliet</description>
+		<link>http://localhost/home.php?id=843880442369352</link>
+		<pubDate>24-07-2015    18:00</pubDate>
+	</item>
+	</channel>
+</rss>

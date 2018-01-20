@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Musician/Band</title>
+	<description>Συλλογή Εκδηλώσεων - Musician/Band</description>
+	<link>home.php?cat=Musician/Band</link>
+	<item>
+		<title>Parov Stelar (Live) @ Hamburg, DE</title>
+		<description>Parov Stelar (Live) @ Hamburg, DE</description>
+		<link>home.php?id=804971166289344</link>
+		<pubDate>05-12-2015    18:30</pubDate>
+	</item>
+	<item>
+		<title>Parov Stelar (Live) @ Stuttgart, DE</title>
+		<description>Parov Stelar (Live) @ Stuttgart, DE</description>
+		<link>home.php?id=496940810469532</link>
+		<pubDate>04-12-2015    19:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Lollapalooza Berlin, DE</title>
+		<description>The Parov Stelar Band @ Lollapalooza Berlin, DE</description>
+		<link>home.php?id=450421605110927</link>
+		<pubDate>12-09-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Nuke Festival, AT</title>
+		<description>The Parov Stelar Band @ Nuke Festival, AT</description>
+		<link>home.php?id=763325450410006</link>
+		<pubDate>29-08-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Spancirfest, HR</title>
+		<description>The Parov Stelar Band @ Spancirfest, HR</description>
+		<link>home.php?id=1438185696476412</link>
+		<pubDate>23-08-2015    20:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Chiemsee Summer, DE</title>
+		<description>The Parov Stelar Band @ Chiemsee Summer, DE</description>
+		<link>home.php?id=309187592612885</link>
+		<pubDate>22-08-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Pukkelpop Festival, BE</title>
+		<description>The Parov Stelar Band @ Pukkelpop Festival, BE</description>
+		<link>home.php?id=631498500327684</link>
+		<pubDate>21-08-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Open Air Lumnezia, CH</title>
+		<description>The Parov Stelar Band @ Open Air Lumnezia, CH</description>
+		<link>home.php?id=1576434882645786</link>
+		<pubDate>24-07-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Beat Herder Festival, UK</title>
+		<description>The Parov Stelar Band @ Beat Herder Festival, UK</description>
+		<link>home.php?id=773577472719902</link>
+		<pubDate>18-07-2015    00:00</pubDate>
+	</item>
+	<item>
+		<title>The Parov Stelar Band @ Ejekt Festival Athens, GR</title>
+		<description>The Parov Stelar Band @ Ejekt Festival Athens, GR</description>
+		<link>home.php?id=766641060058251</link>
+		<pubDate>15-07-2015    16:00</pubDate>
+	</item>
+	</channel>
+</rss>

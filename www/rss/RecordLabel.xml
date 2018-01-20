@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Record Label</title>
+	<description>Συλλογή Εκδηλώσεων - Record Label</description>
+	<link>home.php?cat=Record Label</link>
+	<item>
+		<title>CARNIFEX Live in Thessaloniki + Kin Beneath Chorus/ Dagger Of Betrayal/Embrace the Paradox/Killing I</title>
+		<description>CARNIFEX Live in Thessaloniki + Kin Beneath Chorus/ Dagger Of Betrayal/Embrace the Paradox/Killing I</description>
+		<link>home.php?id=384367405087769</link>
+		<pubDate>31-07-2015    18:30</pubDate>
+	</item>
+	<item>
+		<title>DEEZ NUTS live in Thessaloniki !!! + End Cycle + more Tba</title>
+		<description>DEEZ NUTS live in Thessaloniki !!! + End Cycle + more Tba</description>
+		<link>home.php?id=1568527333398537</link>
+		<pubDate>15-07-2015    19:30</pubDate>
+	</item>
+	<item>
+		<title>UHF X Presents: AGNOSTIC FRONT- MADBALL Live in Athens</title>
+		<description>UHF X Presents: AGNOSTIC FRONT- MADBALL Live in Athens</description>
+		<link>home.php?id=838611652894708</link>
+		<pubDate>06-07-2015    20:00</pubDate>
+	</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Club</title>
+	<description>Συλλογή Εκδηλώσεων - Club</description>
+	<link>http://localhost/home.php?cat=Club</link>
+	<item>
+		<title>MERCIFUL NUNS (gothic rock - DE) live at Death Disco</title>
+		<description>MERCIFUL NUNS (gothic rock - DE) live at Death Disco</description>
+		<link>http://localhost/home.php?id=296845017106069</link>
+		<pubDate>13-11-2015    20:00</pubDate>
+	</item>
+	<item>
+		<title>DETACHMENTS (indie, minimal synth - UK) live at Death Disco</title>
+		<description>DETACHMENTS (indie, minimal synth - UK) live at Death Disco</description>
+		<link>http://localhost/home.php?id=851833808220880</link>
+		<pubDate>19-09-2015    19:00</pubDate>
+	</item>
+	<item>
+		<title>80'S SUMMER PARTY WITH GEORGE SAGNIER / 80'S POP / DISCO / NEW WAVE / NEW ROMANTICS</title>
+		<description>80'S SUMMER PARTY WITH GEORGE SAGNIER / 80'S POP / DISCO / NEW WAVE / NEW ROMANTICS</description>
+		<link>http://localhost/home.php?id=1525873290966656</link>
+		<pubDate>18-07-2015    20:55</pubDate>
+	</item>
+	<item>
+		<title>JUNO REACTOR (UK) EXCLUSIVE AUDIO / VISUAL DJ SET?FRIDAY JULY 3?DEATH DISCO</title>
+		<description>JUNO REACTOR (UK) EXCLUSIVE AUDIO / VISUAL DJ SET?FRIDAY JULY 3?DEATH DISCO</description>
+		<link>http://localhost/home.php?id=1426606214329389</link>
+		<pubDate>03-07-2015    20:00</pubDate>
+	</item>
+	<item>
+		<title>Dimitris Papaspyropoulos presents: &quot;THE LAST CHANCE&quot; party @ Death Disco</title>
+		<description>Dimitris Papaspyropoulos presents: &quot;THE LAST CHANCE&quot; party @ Death Disco</description>
+		<link>http://localhost/home.php?id=109549912716411</link>
+		<pubDate>27-06-2015    20:55</pubDate>
+	</item>
+	<item>
+		<title>BIG SLEEP acoustic live at Death Disco</title>
+		<description>BIG SLEEP acoustic live at Death Disco</description>
+		<link>http://localhost/home.php?id=1616226685282267</link>
+		<pubDate>27-06-2015    18:30</pubDate>
+	</item>
+	<item>
+		<title>Fight this Sickness, Find THE CURE ? The last CURE party of the season!!! ? Friday June 26 ? Dj's: L</title>
+		<description>Fight this Sickness, Find THE CURE ? The last CURE party of the season!!! ? Friday June 26 ? Dj's: L</description>
+		<link>http://localhost/home.php?id=409325879274494</link>
+		<pubDate>26-06-2015    20:55</pubDate>
+	</item>
+	</channel>
+</rss>

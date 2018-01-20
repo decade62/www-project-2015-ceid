@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Political Party</title>
+	<description>Συλλογή Εκδηλώσεων - Political Party</description>
+	<link>http://localhost/home.php?cat=Political Party</link>
+	<item>
+		<title>Έναρξη της 1ης e-ΨΗΦΟΦΟΡΙΑΣ</title>
+		<description>Έναρξη της 1ης e-ΨΗΦΟΦΟΡΙΑΣ</description>
+		<link>http://localhost/home.php?id=944543692263267</link>
+		<pubDate>25-06-2015    00:00</pubDate>
+	</item>
+	</channel>
+</rss>

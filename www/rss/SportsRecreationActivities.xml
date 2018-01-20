@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Sports/Recreation/Activities</title>
+	<description>Συλλογή Εκδηλώσεων - Sports/Recreation/Activities</description>
+	<link>http://localhost/home.php?cat=Sports/Recreation/Activities</link>
+	<item>
+		<title>Free Bowling all summer for Kids ? An Eden Leisure initiative to Fight Child Obesity</title>
+		<description>Free Bowling all summer for Kids ? An Eden Leisure initiative to Fight Child Obesity</description>
+		<link>http://localhost/home.php?id=1635304206685378</link>
+		<pubDate>01-07-2015    08:25</pubDate>
+	</item>
+	</channel>
+</rss>

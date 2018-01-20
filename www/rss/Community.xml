@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Community</title>
+	<description>Συλλογή Εκδηλώσεων - Community</description>
+	<link>http://localhost/home.php?cat=Community</link>
+	<item>
+		<title>2nd Love Tatoo Festival Patras</title>
+		<description>2nd Love Tatoo Festival Patras</description>
+		<link>http://localhost/home.php?id=926679490686337</link>
+		<pubDate>13-02-2016    00:00</pubDate>
+	</item>
+	<item>
+		<title>Rockestra 2015</title>
+		<description>Rockestra 2015</description>
+		<link>http://localhost/home.php?id=1052355511460034</link>
+		<pubDate>12-09-2015    18:00</pubDate>
+	</item>
+	<item>
+		<title>The President's Bike Ride @ Night</title>
+		<description>The President's Bike Ride @ Night</description>
+		<link>http://localhost/home.php?id=466270233538254</link>
+		<pubDate>28-08-2015    15:00</pubDate>
+	</item>
+	<item>
+		<title>The President's Cruise for Solidarity</title>
+		<description>The President's Cruise for Solidarity</description>
+		<link>http://localhost/home.php?id=1609609455994241</link>
+		<pubDate>12-07-2015    07:00</pubDate>
+	</item>
+	<item>
+		<title>The President's Ball</title>
+		<description>The President's Ball</description>
+		<link>http://localhost/home.php?id=1589830761295295</link>
+		<pubDate>27-06-2015    18:00</pubDate>
+	</item>
+	<item>
+		<title>Μόνο η Ελλάδα στην Ευρωπαϊκή Ένωση (έκδοση 3D)</title>
+		<description>Μόνο η Ελλάδα στην Ευρωπαϊκή Ένωση (έκδοση 3D)</description>
+		<link>http://localhost/home.php?id=121788628154039</link>
+		<pubDate>25-06-2015    15:00</pubDate>
+	</item>
+	</channel>
+</rss>

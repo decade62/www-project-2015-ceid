@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Συλλογή Εκδηλώσεων - Local/Travel Website</title>
+	<description>Συλλογή Εκδηλώσεων - Local/Travel Website</description>
+	<link>http://localhost/home.php?cat=Local/Travel Website</link>
+	<item>
+		<title>The Travel House 2015 in Athens: A free home for travelers!</title>
+		<description>The Travel House 2015 in Athens: A free home for travelers!</description>
+		<link>http://localhost/home.php?id=355035678034377</link>
+		<pubDate>01-07-2015    04:00</pubDate>
+	</item>
+	</channel>
+</rss>
